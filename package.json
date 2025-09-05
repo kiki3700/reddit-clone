@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "@clerk/clerk-expo": "^2.14.27",
+    "@clerk/types": "^4.84.0",
+    "react-dom": "^19.1.1",
+    "expo-secure-store": "~14.2.4"
+  }
+}
